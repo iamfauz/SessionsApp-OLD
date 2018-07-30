@@ -1,0 +1,39 @@
+{
+  "invitees": [
+    {
+      "id": 100,
+      "name": "Mark Zuckerberg",
+      "email": "markzuckerberg@gmail.com",
+      "phoneNumber": "+971896369877",
+      "jobTitle": "Chief Executive Officer"
+    },
+    {
+      "id": 101,
+      "name": "Sheryl Sandberg",
+      "email": "sherylsandberg@gmail.com",
+      "phoneNumber": "+971896366300",
+      "jobTitle": "Senior Technical Officer"
+    },
+    {
+      "id": 102,
+      "name": "Reed Hastings",
+      "email": "reed.hastings@gmail.com",
+      "phoneNumber": "+9718963699847",
+      "jobTitle": "Associate Director"
+    },
+    {
+      "id": 103,
+      "name": "Erskine Bowles",
+      "email": "erskine.bowles@gmail.com",
+      "phoneNumber": "+971896368954",
+      "jobTitle": "Associate Vice President"
+    },
+    {
+      "id": 104,
+      "name": "Marc Andreessen",
+      "email": "marc.andreessen@gmail.com",
+      "phoneNumber": "+971896369685",
+      "jobTitle": "Vice President"
+    }
+  ]
+}

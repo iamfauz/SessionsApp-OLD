@@ -1,0 +1,360 @@
+{
+    "Sessions": [
+                 {
+                 "SessionId": 100000164488587,
+                 "ActivityStartDate": "2018-06-25T15:00:00-08:00",
+                 "ActivityEndDate": "2018-06-25T18:00:00-08:00",
+                 "Subject": "Advanced Animations with UIKit",
+                 "ActivityType": "Session",
+                 "Location": "Marina 101, Dubai",
+                 "Owner": "Michael Caliman",
+                 "OwnerEmail": "michael.caliman@gmail.com",
+                 "OwnerContactNumber": "+9715644632896",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "Description": "Direct onscreen manipulation is the cornerstone of the user experience on iOS. iOS 10 includes new support for making onscreen interactions even more immersive and interactive.",
+                 "invitees": [
+                              {
+                              "id": 101,
+                              "name": "Sheryl Sandberg",
+                              "email": "sherylsandberg@gmail.com",
+                              "phoneNumber": "+971896366300",
+                              "jobTitle": "Senior Technical Officer"
+                              },
+                              {
+                              "id": 102,
+                              "name": "Reed Hastings",
+                              "email": "reed.hastings@gmail.com",
+                              "phoneNumber": "+9718963699847",
+                              "jobTitle": "Associate Director"
+                              },
+                              {
+                              "id": 103,
+                              "name": "Erskine Bowles",
+                              "email": "erskine.bowles@gmail.com",
+                              "phoneNumber": "+971896368954",
+                              "jobTitle": "Associate Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488588,
+                 "ActivityStartDate": "2018-12-18T15:00:00-08:00",
+                 "ActivityEndDate": "2018-12-18T16:30:00-08:00",
+                 "Subject": "A Peek at 3D Touch",
+                 "ActivityType": "Session",
+                 "Location": "Princess Tower, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712344632890",
+                 "PrimaryContactName": "John Lopez",
+                 "LeadName": "RMS Tech Lead",
+                 "AccountName": "RMS Corporation",
+                 "OpportunityName": "RMS Server Upgrade Opportunity",
+                 "Description": "3D Touch adds a completely new dimension to the iOS user interface and introduces an entirely new way to interact with your iPhone. Explore the existing API and get introduced to additions in iOS 10 that allow you to push the boundaries of 3D Touch.",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 103,
+                              "name": "Erskine Bowles",
+                              "email": "erskine.bowles@gmail.com",
+                              "phoneNumber": "+971896368954",
+                              "jobTitle": "Associate Vice President"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488589,
+                 "ActivityStartDate": "2018-04-18T17:00:00-08:00",
+                 "ActivityEndDate": "2018-04-22T17:30:00-08:00",
+                 "Subject": "Architecting for Performance on watchOS 3",
+                 "ActivityType": "Session",
+                 "Location": "Elite Residence, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712356632845",
+                 "PrimaryContactName": "Roger Finn",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Decommission Opportunity",
+                 "invitees": [
+                              {
+                              "id": 101,
+                              "name": "Sheryl Sandberg",
+                              "email": "sherylsandberg@gmail.com",
+                              "phoneNumber": "+971896366300",
+                              "jobTitle": "Senior Technical Officer"
+                              },
+                              {
+                              "id": 102,
+                              "name": "Reed Hastings",
+                              "email": "reed.hastings@gmail.com",
+                              "phoneNumber": "+9718963699847",
+                              "jobTitle": "Associate Director"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488590,
+                 "ActivityStartDate": "2018-12-19T15:00:00-08:00",
+                 "ActivityEndDate": "2018-12-19T16:00:00-08:00",
+                 "Subject": "Building Great Workout Apps",
+                 "ActivityType": "Session",
+                 "Location": "Address the BLVD, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712344632890",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488591,
+                 "ActivityStartDate": "2018-06-27T15:00:00-08:00",
+                 "ActivityEndDate": "2018-06-27T17:00:00-08:00",
+                 "Subject": "CloudKit Best Practices",
+                 "ActivityType": "Session",
+                 "Location": "Almas Tower, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712344632890",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "invitees": [
+                              {
+                              "id": 103,
+                              "name": "Erskine Bowles",
+                              "email": "erskine.bowles@gmail.com",
+                              "phoneNumber": "+971896368954",
+                              "jobTitle": "Associate Vice President"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488592,
+                 "ActivityStartDate": "2018-12-21T05:00:00-08:00",
+                 "ActivityEndDate": "2018-12-21T07:00:00-08:00",
+                 "Subject": "Crafting Modern Cocoa Apps",
+                 "ActivityType": "Session",
+                 "Location": "JW Marriott Marquis Dubai Tower 2, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712344632890",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 101,
+                              "name": "Sheryl Sandberg",
+                              "email": "sherylsandberg@gmail.com",
+                              "phoneNumber": "+971896366300",
+                              "jobTitle": "Senior Technical Officer"
+                              },
+                              {
+                              "id": 102,
+                              "name": "Reed Hastings",
+                              "email": "reed.hastings@gmail.com",
+                              "phoneNumber": "+9718963699847",
+                              "jobTitle": "Associate Director"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488593,
+                 "ActivityStartDate": "2018-12-24T06:00:00-08:00",
+                 "ActivityEndDate": "2018-12-24T07:00:00-08:00",
+                 "Subject": "Developing tvOS Apps Using TVMLKit: Part 1",
+                 "ActivityType": "Session",
+                 "Location": "Emirates Office Tower, Dubai",
+                 "Owner": "Joshua Baker",
+                 "OwnerEmail": "joshua.baker@gmail.com",
+                 "OwnerContactNumber": "+9712344632890",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488594,
+                 "ActivityStartDate": "2018-01-23T13:00:00-08:00",
+                 "ActivityEndDate": "2018-02-23T14:00:00-08:00",
+                 "Subject": "Developing tvOS Apps Using TVMLKit: Part 2",
+                 "ActivityType": "Session",
+                 "Location": "Ahmed Abdul Rahim Al Attar Tower, Dubai",
+                 "Owner": "Mitchel Walsh",
+                 "OwnerEmail": "Mitchel.Walsh@gmail.com",
+                 "OwnerContactNumber": "+9712356632590",
+                 "PrimaryContactName": "Delivin Murray",
+                 "LeadName": "Lead Tech",
+                 "AccountName": "Intel Corporation",
+                 "OpportunityName": "Chipset Tech Upgrade",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 101,
+                              "name": "Sheryl Sandberg",
+                              "email": "sherylsandberg@gmail.com",
+                              "phoneNumber": "+971896366300",
+                              "jobTitle": "Senior Technical Officer"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488595,
+                 "ActivityStartDate": "2018-12-21T11:00:00-08:00",
+                 "ActivityEndDate": "2018-12-21T17:12:00-08:00",
+                 "Subject": "Enhancing VoIP Apps with CallKit",
+                 "ActivityType": "Session",
+                 "Location": "DAMAC Residenze, Dubai",
+                 "Owner": "Julia Lee",
+                 "OwnerEmail": "julia.lee@gmail.com",
+                 "OwnerContactNumber": "+9714344632492",
+                 "PrimaryContactName": "Steve Murray",
+                 "LeadName": "Server Tech Lead",
+                 "AccountName": "Vision Corporation",
+                 "OpportunityName": "Server Tech Upgrade Opportunity",
+                 "invitees": [
+                              {
+                              "id": 103,
+                              "name": "Erskine Bowles",
+                              "email": "erskine.bowles@gmail.com",
+                              "phoneNumber": "+971896368954",
+                              "jobTitle": "Associate Vice President"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 },
+                 {
+                 "SessionId": 100000164488596,
+                 "ActivityStartDate": "2017-12-18T10:00:00-08:00",
+                 "ActivityEndDate": "2017-12-18T12:00:00-08:00",
+                 "Subject": "Extending Your Apps with SiriKit",
+                 "ActivityType": "Session",
+                 "Location": "Al Yaqoub Tower, Dubai",
+                 "Owner": "Julia Lee",
+                 "OwnerEmail": "julia.lee@gmail.com",
+                 "OwnerContactNumber": "+9714344632492",
+                 "PrimaryContactName": "Steve Jobs",
+                 "LeadName": "Apple Walk in",
+                 "AccountName": "Apple Corporation",
+                 "OpportunityName": "Apple Inc Opportunity",
+                 "Description": "Learn by example how to integrate SiriKit into your app. See how easily you can create your first Intents extension to expose your app's core functionality in Siri. Find out how to bring your app's user interface into Siri, creating a unique and recognizable experience for your customers.",
+                 "invitees": [
+                              {
+                              "id": 100,
+                              "name": "Mark Zuckerberg",
+                              "email": "markzuckerberg@gmail.com",
+                              "phoneNumber": "+971896369877",
+                              "jobTitle": "Chief Executive Officer"
+                              },
+                              {
+                              "id": 101,
+                              "name": "Sheryl Sandberg",
+                              "email": "sherylsandberg@gmail.com",
+                              "phoneNumber": "+971896366300",
+                              "jobTitle": "Senior Technical Officer"
+                              },
+                              {
+                              "id": 102,
+                              "name": "Reed Hastings",
+                              "email": "reed.hastings@gmail.com",
+                              "phoneNumber": "+9718963699847",
+                              "jobTitle": "Associate Director"
+                              },
+                              {
+                              "id": 103,
+                              "name": "Erskine Bowles",
+                              "email": "erskine.bowles@gmail.com",
+                              "phoneNumber": "+971896368954",
+                              "jobTitle": "Associate Vice President"
+                              },
+                              {
+                              "id": 104,
+                              "name": "Marc Andreessen",
+                              "email": "marc.andreessen@gmail.com",
+                              "phoneNumber": "+971896369685",
+                              "jobTitle": "Vice President"
+                              }
+                              ]
+                 }
+                 ]
+}
+
